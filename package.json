@@ -1,0 +1,15 @@
+{
+  "name": "moddedcompinstaller",
+  "version": "1.0.0",
+  "description": "The modded competitive mod installer",
+  "main": "index.js",
+  "scripts": {
+    "dev": "electron ./Application/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^30.0.7"
+  }
+}
